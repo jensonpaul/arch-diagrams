@@ -1,11 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T09:09:09.990Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="qsYj00WD-TULGmgAhijD" version="21.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-14T09:25:54.467Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="sY1tjYmwi1zioTmsv_gG" version="21.1.7" type="github">
   <diagram name="Page-1" id="IJk4WwUM5N5bT-3gYp7a">
     <mxGraphModel dx="1434" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fQFIvnTxD-w9A1KQ4THq-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="230" width="280" height="180" as="geometry" />
+        <object label="" id="fQFIvnTxD-w9A1KQ4THq-3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;glass=0;shadow=0;noLabel=0;" vertex="1" parent="1">
+            <mxGeometry x="570" y="520" width="220" height="160" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="fQFIvnTxD-w9A1KQ4THq-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/docker-128.png" vertex="1" parent="1">
+          <mxGeometry x="730" y="620" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
